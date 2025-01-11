@@ -1,8 +1,9 @@
 body{
-    margin:50px auto;
+    margin:50px 160px;
     font-family: "Work Sans", serif;
     font-optical-sizing: auto;
-    font-weight: weight
+    
+    
 }
 .head{
     background-color:rgba(198, 228, 214, 1) ;
