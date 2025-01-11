@@ -210,8 +210,8 @@ ul{ display: flex;
     margin-bottom: 52px;
     color:rgba(14, 14, 14, 0.3) ; 
 }
-.done{
-    margin-top: 52px;
+hr{
+    margin: 30px ;
 }
 .technology{
     text-align: center;
