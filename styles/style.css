@@ -236,6 +236,17 @@ ul{ display: flex;
 .sub{
     border-radius: 0px 10px 10px 0px ;
 }
+.bangladesh{
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 130px;
+    margin-bottom: 64px;
+}
+.for{
+    display: flex;
+    justify-content: center;
+    gap:23px;
+}
 
 
    
