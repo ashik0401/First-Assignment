@@ -10,14 +10,12 @@ body{
     justify-content: space-between;
     border-radius: 24px;
     margin-bottom: 80px ;
-    
 }
 .head .head1{
     padding: 127px 598.01px 127px 59.99px ;  
 }
 .head .head2 img{
     padding: 80px  80px ;
-    
 }
 .btn{
     color: white;
@@ -47,8 +45,6 @@ body{
     gap: 24px;
     margin: 32px auto;
     padding: 32px 32px;
-    
-
 }
 .vision{
     font-weight: bold;
@@ -64,25 +60,20 @@ body{
     background-color:rgba(84, 144, 245, 0.2);
     border-radius: 16px;
     padding: 32px 32px;
-    
 }
 .try2{
     background-color:rgba(198, 228, 214, 1);
     border-radius: 16px;
     padding: 32px 32px;
-    
 }
-
 .try3{
     background-color: rgba(247, 235, 207, 1);
     border-radius: 16px;
     padding: 32px 32px;
-    
 }
 .title{
     font-weight: bold;
     font-size: 20px;
-
 }
 .enhance{
     font-size: 16px;
@@ -96,8 +87,6 @@ body{
     border: none;
     width: 122px;
     cursor: pointer;
-    
-
 }
 .belongs{background-image: url('../assets/quote-bg.png') ;height: 64px;
     background-repeat: no-repeat;
@@ -110,21 +99,18 @@ body{
     font-size: 16px;
     color:rgba(14, 14, 14, 0.8) ;
     margin-bottom: 12px;
-    
 }
 .Dr{
     font-weight: 600;
     font-size: 20px;
     color:rgba(14, 14, 14, 0.8) ;
     margin-bottom: 4px;
-    
 }
 .Republic{
     font-size: 16px;
     font-weight: 400;
     color: rgba(14, 14, 14, 0.6);
 }
-
 .recent{
     font-weight: bold;
     font-size: 40px;
@@ -148,7 +134,6 @@ body{
     width: 408px;
     height: 306px;
     border-radius:24px;
-
 }
 .degree{
     font-weight: bold;
@@ -202,8 +187,6 @@ ul{ display: flex;
     list-style-type: none;
     justify-content: space-between;
     gap:20px ;
-   
-
 }
 .bg{
      border: 1px solid;
@@ -225,8 +208,7 @@ ul{ display: flex;
 }
 .amount{
     margin-bottom: 52px;
-    color:rgba(14, 14, 14, 0.3) ;
-    
+    color:rgba(14, 14, 14, 0.3) ; 
 }
 .done{
     margin-top: 52px;
@@ -237,7 +219,6 @@ ul{ display: flex;
     background-color: rgba(198, 228, 214, 1);
     padding:100px 80px ;
     border-radius: 24px;
-
 }
 .email{
     height: 52px;
@@ -245,8 +226,7 @@ ul{ display: flex;
     border-radius: 10px 0px 0px 10px ;
     background-color: #fff;
     border: none;
-    padding-left: 15px;
-    
+    padding-left: 15px; 
 }
 .container{
     display: flex;
