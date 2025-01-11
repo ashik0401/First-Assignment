@@ -88,11 +88,16 @@ body{
     width: 122px;
     cursor: pointer;
 }
-.belongs{background-image: url('../assets/quote-bg.png') ;height: 64px;
+.belongs{
+    
     background-repeat: no-repeat;
+    position: relative;
     margin: 32px auto 80px auto;
-    padding: 48px 24px;
-    padding-top: 1px;
+    padding: 25px 20px;
+    border: 1px solid;
+    border-radius:16px ;
+    border-color: rgba(14, 14, 14, 0.15);
+    background-image: url("../assets/quote-bg.png");
 }
 .future{
     font-weight: 400;
@@ -189,14 +194,17 @@ ul{ display: flex;
     gap:20px ;
 }
 .bg{
-     border: 1px solid;
-     border-color: black;
+     border:1px solid;
+     border-color:rgba(14, 14, 14, 0.15) ;
      border-radius:16px ;
      background-color: #fff;
-     padding: 15px 20px;
+     padding: 10px 15px;
      box-sizing: border-box 10px;
-     margin: 32px 104.5px 52px 104.5px;
+     margin: 32px 80px 52px 104.5px;
      cursor: pointer;
+     font-size: 40px;
+     font-weight: bold;
+     color:rgba(14, 14, 14, 0.8) ;
 }
 .bg:hover{
     background-color: rgba(170, 242, 208, 1) ;
