@@ -1,0 +1,261 @@
+body{
+    margin:50px auto;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight
+}
+.head{
+    background-color:rgba(198, 228, 214, 1) ;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 24px;
+    margin-bottom: 80px ;
+    
+}
+.head .head1{
+    padding: 127px 598.01px 127px 59.99px ;  
+}
+.head .head2 img{
+    padding: 80px  80px ;
+    
+}
+.btn{
+    color: white;
+    background-color:rgba(0, 106, 80, 1) ;
+    font-size:12px;
+    padding: 20px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+}
+.btn:hover{
+   background-color: rgb(18, 216, 157);
+}
+.bold{
+    font-weight: bolder;
+    font-size: 26px;
+}
+.bang{
+    font-size: 24px;
+    font-weight: medium;
+    height: 24px;
+    color:rgba(14, 14, 14, 0.5) ;
+}
+.digital{
+    opacity: 100%;
+    display: flex;
+    gap: 24px;
+    margin: 32px auto;
+    padding: 32px 32px;
+    
+
+}
+.vision{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.aims{
+    height: 24px;
+    color:rgba(14, 14, 14, 0.7) ;
+    font-size: 16px;
+}
+.try1{
+    background-color:rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    padding: 32px 32px;
+    
+}
+.try2{
+    background-color:rgba(198, 228, 214, 1);
+    border-radius: 16px;
+    padding: 32px 32px;
+    
+}
+
+.try3{
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+    padding: 32px 32px;
+    
+}
+.title{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.enhance{
+    font-size: 16px;
+    color:rgba(14, 14, 14, 0.7) ;
+}
+.btnn{
+    font-size: 16px;
+    font-weight: 600;
+    padding: 20px 11px;
+    border-radius: 8px;
+    border: none;
+    width: 122px;
+    cursor: pointer;
+    
+
+}
+.belongs{background-image: url('../assets/quote-bg.png') ;height: 64px;
+    background-repeat: no-repeat;
+    margin: 32px auto 80px auto;
+    padding: 48px 24px;
+    padding-top: 1px;
+}
+.future{
+    font-weight: 400;
+    font-size: 16px;
+    color:rgba(14, 14, 14, 0.8) ;
+    margin-bottom: 12px;
+    
+}
+.Dr{
+    font-weight: 600;
+    font-size: 20px;
+    color:rgba(14, 14, 14, 0.8) ;
+    margin-bottom: 4px;
+    
+}
+.Republic{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.6);
+}
+
+.recent{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom:24px ;
+}
+.global{
+    font-weight: 400;
+    font-size: 16px;
+    color:rgba(14, 14, 14, 0.7) ;
+    margin-bottom: 32px;
+}
+.common{
+   display: flex;
+   justify-content: space-between;
+   padding: 48px 48px;
+   gap: 32px;
+}
+.satelite img{
+    x: 48px;
+    y: 48px;
+    width: 408px;
+    height: 306px;
+    border-radius:24px;
+
+}
+.degree{
+    font-weight: bold;
+    font-size: 32px;
+    color:rgba(14, 14, 14, 0.8) ;
+    margin-bottom:12px ;
+}
+.time{
+     font-weight: 400;
+     font-size: 16px;
+     color:rgba(14, 14, 14, 0.7) ;
+     margin: 12px auto;
+}
+.creation{
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    background-color:rgba(0, 106, 80, 1) ;
+    padding: 15px 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.common2{
+    
+    display: flex;
+   justify-content: space-between;
+   padding: 48px 48px;
+   gap: 32px;}
+.creation:hover{
+    background-color: rgb(18, 216, 157);;
+}
+.growth{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.edg{
+   
+    justify-content: center;
+    text-align: center;
+}
+.energy{
+    margin: 80pxpx 150px;
+    padding: 0 150px;
+    text-align: center;
+}
+.today{
+    text-align: center;
+}
+ul{ display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    gap:20px ;
+   
+
+}
+.bg{
+     border: 1px solid;
+     border-color: black;
+     border-radius:16px ;
+     background-color: #fff;
+     padding: 15px 20px;
+     box-sizing: border-box 10px;
+     margin: 32px 104.5px 52px 104.5px;
+     cursor: pointer;
+}
+.bg:hover{
+    background-color: rgba(170, 242, 208, 1) ;
+}
+.last{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+.amount{
+    margin-bottom: 52px;
+    color:rgba(14, 14, 14, 0.3) ;
+    
+}
+.done{
+    margin-top: 52px;
+}
+.technology{
+    text-align: center;
+    margin: 80px;
+    background-color: rgba(198, 228, 214, 1);
+    padding:100px 80px ;
+    border-radius: 24px;
+
+}
+.email{
+    height: 52px;
+    width: 500px;
+    border-radius: 10px 0px 0px 10px ;
+    background-color: #fff;
+    border: none;
+    padding-left: 15px;
+    
+}
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.sub{
+    border-radius: 0px 10px 10px 0px ;
+}
+
+
+   
